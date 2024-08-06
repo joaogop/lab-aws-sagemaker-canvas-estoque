@@ -17,6 +17,7 @@
 # 3. Análise do Modelo:
 
   Resultados do modelo:
+  
 ![image](https://github.com/user-attachments/assets/1a56373f-ed00-4a97-8de7-0ae40d77c494)
 
   Considerando a tabela abaixo, nota-se que o MAPE indica que esse modelo é altamente acurado, dado que ele está abaixo de 10% (1,2%).
